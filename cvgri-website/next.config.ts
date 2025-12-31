@@ -7,10 +7,8 @@ const nextConfig: NextConfig = {
   basePath: `/${repoName}`,
   assetPrefix: `/${repoName}/`,
   images: {
-    unoptimized: true, // REQUIRED for GitHub Pages
+    unoptimized: true,
   },
-
-  trailingSlash: true, // prevents 404s on refresh
 };
 
 export default nextConfig;

@@ -12,7 +12,7 @@ import GuestSpeakers from "./home-page/guest-speakers";
 
 export default function Home() {
   const images = [
-    "/gallery7.JPG",
+    "gallery7.JPG",
     "/gallery3.JPG",
     "/gallery8.JPG",
     "/gallery5.JPG",
