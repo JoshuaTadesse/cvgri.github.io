@@ -129,7 +129,7 @@ export default function Group3Client() {
 
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group3/1.jpeg"
+                src="Research Project Images/Group3/1.jpeg"
                 alt="flashstage"
                 fill
                 style={{ objectFit: "contain" }}
@@ -393,7 +393,7 @@ export default function Group3Client() {
 
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group3/2.jpeg"
+                src="Research Project Images/Group3/2.jpeg"
                 alt="flashstage"
                 fill
                 style={{ objectFit: "contain" }}
@@ -420,7 +420,7 @@ export default function Group3Client() {
 
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group3/3.png"
+                src="Research Project Images/Group3/3.png"
                 alt="flashstage"
                 fill
                 style={{ objectFit: "contain" }}
@@ -454,7 +454,7 @@ export default function Group3Client() {
 
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group3/4.png"
+                src="Research Project Images/Group3/4.png"
                 alt="flashstage"
                 fill
                 style={{ objectFit: "contain" }}

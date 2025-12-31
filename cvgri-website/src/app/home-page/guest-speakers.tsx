@@ -45,7 +45,7 @@ export default function GuestSpeakers() {
             <a className={styles.a} target="_blank" rel="noopener noreferrer">
               <div className={styles.carddisplay}>
                 <img
-                  src={`./Avatars/GuestSpeakers/${staff.Picture}`}
+                  src={`Avatars/GuestSpeakers/${staff.Picture}`}
                   alt={staff.FullName}
                 />
                 <h2 className={styles.h2}>{staff.FullName}</h2>

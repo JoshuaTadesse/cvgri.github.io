@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       {/* Left Section - Logo and CVGRI */}
       <div className={styles.left}>
-        <Image src="/favicon.ico" alt="CVGRI Logo" width={60} height={50} />
+        <Image src="favicon.ico" alt="CVGRI Logo" width={60} height={50} />
         <span className={styles.logoText}>CVGRI</span>
       </div>
 

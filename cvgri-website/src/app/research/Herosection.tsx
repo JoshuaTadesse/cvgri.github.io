@@ -7,11 +7,11 @@ export default function HeroSection() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const images = [
-    "/gallery1.JPG",
-    "/gallery2.JPG",
-    "/gallery3.JPG",
-    "/gallery4.JPG",
-    "/gallery5.JPG",
+    "gallery1.JPG",
+    "gallery2.JPG",
+    "gallery3.JPG",
+    "gallery4.JPG",
+    "gallery5.JPG",
   ];
 
   const nextImage = () => {

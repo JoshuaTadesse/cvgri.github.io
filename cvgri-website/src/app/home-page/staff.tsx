@@ -44,7 +44,7 @@ export default function StaffSection() {
             <a className={styles.a} target="_blank" rel="noopener noreferrer">
               <div className={styles.carddisplay}>
                 <img
-                  src={`./Avatars/Mentors/${staff.Picture}`}
+                  src={`Avatars/Mentors/${staff.Picture}`}
                   alt={staff.FullName}
                 />
                 <h2 className={styles.h2}>{staff.FullName}</h2>

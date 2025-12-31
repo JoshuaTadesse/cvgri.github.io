@@ -7,44 +7,44 @@ const projects = [
   {
     title:
       "A Scoping Review on the Applications of Diffusion Models in the Medical Field",
-    image: "/Research Project Images/Diffusion Models in the Medical Field.png",
-    link: "/research/group1",
+    image: "Research Project Images/Diffusion Models in the Medical Field.png",
+    link: "research/group1",
   },
   {
     title:
       "Dopplegangers++: Improving 3D Reconstruction with Graph Algorithms for symmetric Objects",
-    image: "/Research Project Images/Dopplegangers.png",
-    link: "/research/group2",
+    image: "Research Project Images/Dopplegangers.png",
+    link: "research/group2",
   },
   {
     title: "Flash Stage: Relighting with Flashlight",
-    image: "/Research Project Images/FlashStagePoster.png",
-    link: "/research/group3",
+    image: "Research Project Images/FlashStagePoster.png",
+    link: "research/group3",
   },
   {
     title: "Inconsistencies in Novel View Synthesis for Videos",
     image:
-      "/Research Project Images/Inconsistencies in Novel View Synthesis for Videos.png",
-    link: "/research/group4",
+      "Research Project Images/Inconsistencies in Novel View Synthesis for Videos.png",
+    link: "research/group4",
   },
   {
     title: "Adversarial Pixels: Exploring Why Vision Tasks Aren’t Fully Solved",
-    image: "/Research Project Images/Adversarial Pixels.png",
-    link: "/research/group5",
+    image: "Research Project Images/Adversarial Pixels.png",
+    link: "research/group5",
   },
   {
     title:
       "Language-Guided Image Segmentation Models: A Comparative Study of CLIPSeg, UniLSeg, and Lang_SAM",
     image:
-      "/Research Project Images/Language-Guided Image Segmentation Models.png",
-    link: "/research/group6",
+      "Research Project Images/Language-Guided Image Segmentation Models.png",
+    link: "research/group6",
   },
   {
     title:
       "Automated Amharic Braille Recognition Using Image Processing and Contour Detection",
     image:
-      "/Research Project Images/Automated_Amharic_Braille_Recognition_Using_Image_Processing_and.png",
-    link: "/research/group7",
+      "Research Project Images/Automated_Amharic_Braille_Recognition_Using_Image_Processing_and.png",
+    link: "research/group7",
   },
 ];
 

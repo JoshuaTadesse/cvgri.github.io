@@ -357,7 +357,7 @@ export default function Group4Client() {
             </ul>
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group4/1.png"
+                src="Research Project Images/Group4/1.png"
                 alt="inconsistency example"
                 fill
                 style={{ objectFit: "contain" }}
@@ -365,7 +365,7 @@ export default function Group4Client() {
             </div>
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group4/2.gif"
+                src="Research Project Images/Group4/2.gif"
                 alt="inconsistency example"
                 fill
                 style={{ objectFit: "contain" }}
@@ -386,7 +386,7 @@ export default function Group4Client() {
             </ul>
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group4/3.png"
+                src="Research Project Images/Group4/3.png"
                 alt="inconsistency example"
                 fill
                 style={{ objectFit: "contain" }}
@@ -394,7 +394,7 @@ export default function Group4Client() {
             </div>
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group4/4.png"
+                src="Research Project Images/Group4/4.png"
                 alt="inconsistency example"
                 fill
                 style={{ objectFit: "contain" }}
@@ -423,7 +423,7 @@ export default function Group4Client() {
             </p>
             <div className="inlineImage">
               <Image
-                src="/Research Project Images/Group4/5.png"
+                src="Research Project Images/Group4/5.png"
                 alt="inconsistency example"
                 fill
                 style={{ objectFit: "contain" }}

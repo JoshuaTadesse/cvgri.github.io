@@ -39,7 +39,7 @@ export default function StudentSection() {
             <a className={styles.a} target="_blank" rel="noopener noreferrer">
               <div className={styles.carddisplay}>
                 <img
-                  src={`./Avatars/Students/${student.Picture}`}
+                  src={`Avatars/Students/${student.Picture}`}
                   alt={student.FullName}
                 />
                 <h2 className={styles.h2}>{student.FullName}</h2>

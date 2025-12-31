@@ -28,7 +28,7 @@ const CVGriLore: React.FC = () => {
       >
         {/* CVGri Character */}
         <Image
-          src="/cvgri.png"
+          src="cvgri.png"
           alt="CVGri Character"
           width={150}
           height={150}

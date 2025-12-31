@@ -5,34 +5,34 @@ export const researchData = {
       "A Scoping Review on the Applications of Diffusion Models in the Medical Field",
     subtitle:
       "Naomi Eskinder Woudneh, Sebrina Akmel Mudesir, Zemzem Hibet Oumer, Sosna Worku Achamyeleh",
-    image: "/Research Project Images/Diffusion Models in the Medical Field.png",
+    image: "Research Project Images/Diffusion Models in the Medical Field.png",
   },
   group2: {
     slug: "group2",
     title:
       "Dopplegangers++: Improving 3D Reconstruction with Graph Algorithms for symmetric Objects",
     subtitle: "Tinsae Tadesse, Milki Hasena, Gemmechu Hassena",
-    image: "/Research Project Images/Adversarial Pixels.png",
+    image: "Research Project Images/Adversarial Pixels.png",
   },
   group3: {
     slug: "group3",
     title: "Flash Stage: Relighting with Flashlight",
     subtitle:
       "Nahom Temesgen, Lealem Kinfe, Nanati Oumer, Haileyesus Kassahun, Surafel Mulaw, Gemmechu Hassena",
-    image: "/Research Project Images/FlashStagePoster.png",
+    image: "Research Project Images/FlashStagePoster.png",
   },
   group4: {
     slug: "group4",
     title: "Inconsistencies in Novel View Synthesis for Videos",
     subtitle: "Firi Berhane, Hana Andargie, Joshua Tadesse, Kushal Kedia",
     image:
-      "/Research Project Images/Inconsistencies in Novel View Synthesis for Videos.png",
+      "Research Project Images/Inconsistencies in Novel View Synthesis for Videos.png",
   },
   group5: {
     slug: "group5",
     title: "Adversarial Pixels: Exploring Why Vision Tasks Aren’t Fully Solved",
     subtitle: "Dawit Getahun, Abenezer Kebede, Mahlet Dereje, Ayda Sultan",
-    image: "/Research Project Images/Adversarial Pixels.png",
+    image: "Research Project Images/Adversarial Pixels.png",
   },
   group6: {
     slug: "group6",
@@ -48,6 +48,6 @@ export const researchData = {
       "Automated Amharic Braille Recognition Using Image Processing and Contour Detection",
     subtitle:
       "Amir Ahmedin, Amir Fasil, Tsehay Goremes, Henok Belayneh, Tamiru Alemnew, Surafel Kindu",
-    image: "/Research Project Images/Adversarial Pixels.png",
+    image: "Research Project Images/Adversarial Pixels.png",
   },
 };

@@ -6,7 +6,7 @@ export default function HeroSection() {
     <div className={styles.heroContainer}>
       <div className={styles.heroImageWrapper}>
         <Image
-          src="/Research Project Images/home.png"
+          src="Research Project Images/home.png"
           alt="Background"
           fill
           className={styles.heroImage}

@@ -29,7 +29,7 @@ const programData: ProgramWeek[] = [
       "Day 2: Morning: - Lecture for Object Detection and Segmentation",
       "Day 2: Afternoon: - Programming assignment 2",
     ],
-    imageSrc: "/gallery1.jpg",
+    imageSrc: "gallery1.jpg",
   },
   {
     week: "Week 2 (Tutorial Week and Research Week)",
@@ -43,7 +43,7 @@ const programData: ProgramWeek[] = [
       "Day 5: Afternoon - Programming assignment 4",
       "Day 6: Morning - Student presentation on what they have learned so far - Research project selection",
     ],
-    imageSrc: "/gallery3.jpg",
+    imageSrc: "gallery3.jpg",
   },
   {
     week: "Week 3 (Research Week and Presentation)",
@@ -52,7 +52,7 @@ const programData: ProgramWeek[] = [
       "Group Presentations and showcase on the main research topics that students chose with their mentors.",
       "Closing day celebrations and social games with everyone @ Friendship Park :)",
     ],
-    imageSrc: "/gallery4.jpg",
+    imageSrc: "gallery4.jpg",
   },
 ];
 

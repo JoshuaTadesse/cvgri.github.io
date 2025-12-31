@@ -23,7 +23,7 @@ export default function Navbar() {
       <div className={styles.container}>
         {/* Logo Section */}
         <div className={styles.logo}>
-          <Image src="/image.png" alt="CVGRI Logo" width={40} height={40} />
+          <Image src="image.png" alt="CVGRI Logo" width={40} height={40} />
           <Link href={isHome ? `#home` : `/#home`} onClick={closeMenu}>
             CVGRI
           </Link>

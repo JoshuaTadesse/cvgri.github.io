@@ -13,18 +13,18 @@ import GuestSpeakers from "./home-page/guest-speakers";
 export default function Home() {
   const images = [
     "gallery7.JPG",
-    "/gallery3.JPG",
-    "/gallery8.JPG",
-    "/gallery5.JPG",
-    "/gallery13.JPG",
-    "/gallery1.JPG",
-    "/gallery12.JPG",
-    "/gallery9.JPG",
-    "/gallery10.JPG",
-    "/gallery11.JPG",
-    "/gallery15.JPG",
-    "/gallery14.JPG",
-    "/gallery6.JPG",
+    "gallery3.JPG",
+    "gallery8.JPG",
+    "gallery5.JPG",
+    "gallery13.JPG",
+    "gallery1.JPG",
+    "gallery12.JPG",
+    "gallery9.JPG",
+    "gallery10.JPG",
+    "gallery11.JPG",
+    "gallery15.JPG",
+    "gallery14.JPG",
+    "gallery6.JPG",
   ];
   return (
     <div className={styles.page}>
